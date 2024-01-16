@@ -1,0 +1,67 @@
+{
+"apiVersion": "V2",
+"assemblies": [
+{
+  "files": [
+    {
+      "filePath": "assembly_data_report.jsonl",
+      "fileType": "DATA_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000005845.2",
+  "files": [
+    {
+      "filePath": "GCF_000005845.2/GCF_000005845.2_ASM584v2_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    }
+  ]
+},{
+  "accession": "GCF_000008865.2",
+  "files": [
+    {
+      "filePath": "GCF_000008865.2/GCF_000008865.2_ASM886v2_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    }
+  ]
+},{
+  "accession": "GCF_016904755.1",
+  "files": [
+    {
+      "filePath": "GCF_016904755.1/GCF_016904755.1_ASM1690475v2_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    }
+  ]
+},{
+  "accession": "GCF_020097475.1",
+  "files": [
+    {
+      "filePath": "GCF_020097475.1/GCF_020097475.1_ASM2009747v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    }
+  ]
+},{
+  "accession": "GCF_020283705.1",
+  "files": [
+    {
+      "filePath": "GCF_020283705.1/GCF_020283705.1_ASM2028370v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    }
+  ]
+},{
+  "accession": "GCF_029962465.1",
+  "files": [
+    {
+      "filePath": "GCF_029962465.1/GCF_029962465.1_ASM2996246v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    }
+  ]
+},{
+  "accession": "GCF_031323975.1",
+  "files": [
+    {
+      "filePath": "GCF_031323975.1/GCF_031323975.1_ASM3132397v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    }
+  ]
+}]}
